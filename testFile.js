@@ -1,0 +1,1 @@
+const myFavoriteNumber = 7.2659;
